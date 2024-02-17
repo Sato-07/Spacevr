@@ -79,7 +79,7 @@ export const Skill_data = [
     },
   
   ];
-  
+
   export const Socials = [
     {
       name: "Discord",

@@ -11,7 +11,7 @@ const Skills = () => {
     </div>
     <div
       className="flex  py-2"
-      id="projects"
+      id="services"
     >
 
       <div className=" flex  h- w-1/2 px-10 text-white">
@@ -67,10 +67,17 @@ const Skills = () => {
           title="2. Secure Your Wallet with EVR"
           description="Ensure you have 510 EVR in your wallet. These will be necessary to cover your registration and get you started on your hosting journey."
         />
-        <SkillText
-          title="1. Set Up Your CloudFanatic Server"
-          description="Ready to elevate your hosting experience? Get your server with a minimum of 2GB RAM and 2vCPUs at CloudFanatic: https://cloudfanatic.com/adlkanlkanlink"
-        />
+        <div className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
+
+          <div className="relative p-2">
+            <span className="text-transparent text-lg bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
+              {" "}
+              1. Set Up Your CloudFanatic Server{" "}
+            </span>        
+            <p className="mt-2 text-gray-300">Ready to elevate your hosting experience? Get your server with a minimum of 2GB RAM and 2vCPUs at CloudFanatic:<a href="https://my.cloudfanatic.net/aff.php?aff=687"> https://my.cloudfanatic.net/aff.php?aff=687</a></p>
+          </div>
+        </div>
+
         <SkillText
           title="4. Obtain a Domain Name and Public Email Address"
           description="Establish your online presence by acquiring a domain name and setting up a public email address. These essentials will ensure effective communication and identity establishment in the Evernode community"

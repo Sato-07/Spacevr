@@ -1,6 +1,7 @@
 import { Socials } from "@/constants";
 import Image from "next/image";
 import React from "react";
+import { RiTwitterXLine } from "react-icons/ri";
 
 const Navbar = () => {
   return (
@@ -11,11 +12,11 @@ const Navbar = () => {
           className="h-auto w-auto flex flex-row items-center"
         >
           <Image
-            src="/NavLogo.png"
+            src="/logo.png"
             alt="logo"
-            width={70}
-            height={70}
-            className="cursor-pointer hover:animate-slowspin"
+            width={40}
+            height={40}
+            className="cursor-pointer rounded-full hover:animate-slowspin"
           />
 
           <span className="font-bold ml-[10px] hidden md:block text-gray-300">
@@ -28,8 +29,8 @@ const Navbar = () => {
             <a href="#about-me" className="cursor-pointer">
               About me
             </a>
-            <a href="#skills" className="cursor-pointer">
-              Skills
+            <a href="#services" className="cursor-pointer">
+              Sevices
             </a>
             <a href="#projects" className="cursor-pointer">
               Projects
@@ -37,17 +38,9 @@ const Navbar = () => {
           </div>
         </div>
 
-        <div className="flex flex-row gap-5">
-          {Socials.map((social) => (
-            <Image
-              src={social.src}
-              alt={social.name}
-              key={social.name}
-              width={24}
-              height={24}
-            />
-          ))}
-        </div>
+        <a href="https://twitter.com/"  target="_blank" rel="noopener noreferrer" className="flex flex-row gap-5">
+          <RiTwitterXLine className="text-2xl cursor-pointer text-white" />
+        </a>
       </div>
     </div>
   );
