@@ -24,7 +24,7 @@ const Projects = () => {
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
         <ProjectCard
-          src="/singapore.png"
+          src="/sing.png"
           title="EvrQuest"
           href="https://evrquest.com/"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
