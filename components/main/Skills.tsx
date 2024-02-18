@@ -69,12 +69,12 @@ const Skills = () => {
         />
         <div className="relative overflow-hidden rounded-lg shadow-lg border border-[#2A0E61]">
 
-          <div className="relative p-2">
+          <div className="relative z-30 p-2">
             <span className="text-transparent text-lg bg-clip-text bg-gradient-to-r from-purple-500 to-cyan-500">
               {" "}
               1. Set Up Your CloudFanatic Server{" "}
             </span>        
-            <p className="mt-2 text-gray-300">Ready to elevate your hosting experience? Get your server with a minimum of 2GB RAM and 2vCPUs at CloudFanatic:<a href="https://my.cloudfanatic.net/aff.php?aff=687"> https://my.cloudfanatic.net/aff.php?aff=687</a></p>
+            <p className="mt-2 text-gray-300">Ready to elevate your hosting experience? Get your server with a minimum of 2GB RAM and 2vCPUs at CloudFanatic:<a href="https://my.cloudfanatic.net/aff.php?aff=687" target="_blank" rel="noopener noreferrer" className=" text-blue-600"> https://my.cloudfanatic.net/aff.php?aff=687</a></p>
           </div>
         </div>
 

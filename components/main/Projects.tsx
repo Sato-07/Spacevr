@@ -24,9 +24,9 @@ const Projects = () => {
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
         <ProjectCard
-          src="/singap.png"
+          src="/singapore.png"
           title="EvrQuest"
-          href={"https://evrquest.com/"}
+          href="https://evrquest.com/"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
 
@@ -35,7 +35,7 @@ const Projects = () => {
         <ProjectCard
           src="/mumbai.png"
           title="ForevrSmart"
-          href={"https://forevrsmart.org/"}
+          href="https://forevrsmart.org/"
           description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
         />
         <ProjectCard
