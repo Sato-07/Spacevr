@@ -2,6 +2,7 @@ import { Socials } from "@/constants";
 import Image from "next/image";
 import React from "react";
 import { RiTwitterXLine } from "react-icons/ri";
+import { IoIosMailUnread } from "react-icons/io";
 
 const Navbar = () => {
   return (
@@ -38,9 +39,13 @@ const Navbar = () => {
           </div>
         </div>
 
-        <a href="https://twitter.com/"  target="_blank" rel="noopener noreferrer" className="flex flex-row gap-5">
+
+        <a href="https://twitter.com/EvryHosting"  target="_blank" rel="noopener noreferrer"
+        className="rounded-full border dark:border-neutral-600 cursor-pointer border-neutral-400/60 p-2 w-10 h-10 flex"
+        >
           <RiTwitterXLine className="text-2xl cursor-pointer text-white" />
         </a>
+
       </div>
     </div>
   );

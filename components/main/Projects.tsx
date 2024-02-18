@@ -15,19 +15,19 @@ const Projects = () => {
           src="/evrgarden.png"
           title="EvrGarden"
           href="https://evrgarden.com/"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Experience the convenience of Evernode hosting firsthand with our latest creation, showcasing the simplicity and reliability of Evernode's services. Visit the website today and witness how Evernode empowers businesses to thrive online effortlessly."
         />
         <ProjectCard
           src="/osaka.png"
           title="SmartEvr"
           href="https://smartevr.org/"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Discover our exclusive dashboard designed to manage hosting instances on Evernode. Simplify instance management, track performance, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode hosting services."
         />
         <ProjectCard
           src="/sing.png"
           title="EvrQuest"
           href="https://evrquest.com/"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Discover our exclusive dashboard designed to manage hosting instances on Evernode. Simplify instance management, track performance, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode hosting services."
         />
 
       </div>
@@ -36,19 +36,19 @@ const Projects = () => {
           src="/mumbai.png"
           title="ForevrSmart"
           href="https://forevrsmart.org/"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Discover our exclusive dashboard designed to manage hosting instances on Evernode. Simplify instance management, track performance, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode hosting services."
         />
         <ProjectCard
           src="/melbourne.png"
           title="EvryGood"
           href="https://evrygood.dev/"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Discover our exclusive dashboard designed to manage hosting instances on Evernode. Simplify instance management, track performance, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode hosting services."
         />
         <ProjectCard
           src="/seoul.png"
           title="EvrQuest"
           href="https://evrsmartlabs.com/"
-          description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+          description="Discover our exclusive dashboard designed to manage hosting instances on Evernode. Simplify instance management, track performance, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode hosting services."
         />
 
       </div>
