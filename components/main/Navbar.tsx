@@ -41,7 +41,7 @@ const Navbar = () => {
 
 
         <a href="https://twitter.com/EvryHosting"  target="_blank" rel="noopener noreferrer"
-        className="rounded-full border dark:border-neutral-600 cursor-pointer border-neutral-400/60 p-2 w-10 h-10 flex"
+        className=" p-2 w-10 h-10 flex"
         >
           <RiTwitterXLine className="text-2xl cursor-pointer text-white" />
         </a>

@@ -21,7 +21,7 @@ const ProjectCard = ({ src, title, description, href }: Props) => {
 
       <div className="relative p-4 cursor-pointer">
         <h1 className="text-2xl font-semibold text-white">{title}</h1>
-        <p className="mt-2 z-50 text-gray-300">{description}</p>
+        <p className="mt-2 z-50 w-auto text-gray-300">{description}</p>
       </div>
     </a>
   );

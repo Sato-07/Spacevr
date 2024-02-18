@@ -15,8 +15,8 @@ const Projects = () => {
           src="/evrgarden.png"
           title="EvrGarden"
           href="https://evrgarden.com/"
-          description="Experience the convenience of Evernode hosting firsthand with our latest creation, showcasing the simplicity and reliability of Evernode's services. Visit the website today and witness how Evernode empowers businesses to thrive online effortlessly."
-        />
+          description="Discover our exclusive website 3D designed to manage hosting instances for rent on Evrgarden. Simplify instance management, rent 3D models, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode services."
+          />
         <ProjectCard
           src="/osaka.png"
           title="SmartEvr"
