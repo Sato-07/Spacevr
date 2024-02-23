@@ -46,7 +46,7 @@ const Projects = () => {
         />
         <ProjectCard
           src="/seoul.png"
-          title="EvrQuest"
+          title="EvrSmartLabs"
           href="https://evrsmartlabs.com/"
           description="Discover our exclusive dashboard designed to manage hosting instances on Evernode. Simplify instance management, track performance, and optimize your online presence with our user-friendly interface. Join us today to explore a new way of managing your Evernode hosting services."
         />
